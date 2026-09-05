@@ -26,7 +26,7 @@ Extract the mod so you have:
 
 Enable **Johnto** in the Gen1Recomp++ Mods menu and start a **New Game**.
 
-A Pokémon Gold ROM is **not** required at runtime.
+AA Pokémon Gold ROM must be imported in the launcher to play.
 
 ## Credits
 
